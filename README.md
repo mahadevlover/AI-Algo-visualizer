@@ -1,11 +1,7 @@
-## Visualizer
-[![CodeFactor](https://www.codefactor.io/repository/github/jasonfenggit/visualizer/badge)](https://www.codefactor.io/repository/github/jasonfenggit/visualizer)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JasonFengGit/Visualizer/blob/master/LICENSE)
+# AI-Visualizer
 
-
-This project is developed with React to help people to view algorithmic processes intuitively and entertainingly. <br/>
-You may visit the page at <a href="https://jasonfenggit.github.io/Visualizer/">jasonfenggit.github.io/Visualizer/</a> with Chrome (use full screen view to achieve better experience). 
-
+## Demo-Link
+https://ai-visualizer.netlify.app/
 
 ## Algorithms Included
 
@@ -25,20 +21,26 @@ You may visit the page at <a href="https://jasonfenggit.github.io/Visualizer/">j
   - Approximate Q Learning
   - Minimax(Alpha–beta pruning)
 
-## How To Use
+## ScreenShots
 
-Open the <a href="https://jasonfenggit.github.io/Visualizer/">website</a> in Chrome and follow the instructions to start visualizing algorithms!
+![image](https://github.com/mahadevlover/AI-Algo-visualizer/assets/124419862/a0bec679-9116-4f39-8ec2-9e17995ab929)
+
+![image](https://github.com/mahadevlover/AI-Algo-visualizer/assets/124419862/93adce7a-f5bb-4d4e-b4eb-94ef0c168450)
+
+![image](https://github.com/mahadevlover/AI-Algo-visualizer/assets/124419862/0d50ba8b-42ff-4368-8ae6-7cf54f520bac)
+
+![image](https://github.com/mahadevlover/AI-Algo-visualizer/assets/124419862/471bb787-e8ad-42b1-b43d-576ec53e73a9)
 
 
-## How To Contribute
 
-You may find me through <a href="mailto:jasonfen@usc.edu">email</a> with any comments or ideas and fork this project!
 
-## Future Expectations
-- Implement and complete descriptions & tutorials of different algorithms
-- Customizable learning parameters and model architectures
-- Allowing submissions of codes/models
-- User rankings by their models' performances
-- ...
+
+
+## Contact-ME
+<div>
+<a href="https://www.linkedin.com/in/gulshan-bhati-956655248/">LinkedIn</a>
+</div>
+Email: sukhveerbhatigulshan@gmail.com
+
 
 #### ENJOY THE BEAUTY OF ALGORITHMS!
